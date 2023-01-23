@@ -1,3 +1,4 @@
 kaggle.json
-/dataset/*
+dataset/seg_train/
+dataset/seg_test/
 intel-image-classification.zip
